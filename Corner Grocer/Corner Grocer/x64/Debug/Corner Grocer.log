@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\harmo\source\repos\Corner Grocer\Corner Grocer\frequency.h(15,20): warning C4227: anachronism used: qualifiers on reference are ignored
+  Corner Grocer.vcxproj -> C:\Users\harmo\source\repos\Corner Grocer\x64\Debug\Corner Grocer.exe
